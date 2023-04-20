@@ -6,7 +6,7 @@ import NFTMarketplace from "views/admin/marketplace";
 import Profile from "views/admin/profile";
 import DataTables from "views/admin/tables";
 import RTLDefault from "views/rtl/default";
-
+import fakedata from "views/admin/marketplace/fakedata";
 // Auth Imports
 import SignIn from "views/auth/SignIn";
 
@@ -19,6 +19,7 @@ import {
   MdLock,
   MdOutlineQuestionMark
 } from "react-icons/md";
+import Marketplace from "views/admin/marketplace";
 
 const routes = [
   {

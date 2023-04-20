@@ -127,7 +127,7 @@ export default function ComplexTable(props: { tableData: any }) {
         <div className="text-xl font-bold text-navy-700 dark:text-white">
           Solutions
         </div>
-        <CardMenu />
+      <CardMenu />
       </div>
 
       <div className="mt-8 overflow-x-scroll xl:overflow-x-hidden">
